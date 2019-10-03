@@ -1,6 +1,3 @@
-# Ignore the answer
-add.js
-
 # Ignore test runner output
 __tests__/runner/*
 
